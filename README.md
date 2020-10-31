@@ -1,4 +1,4 @@
 # test
 
-<p>pppp</p>
-<b>bbbb</b>
+<p attribute="gay"><p>pp</p>pp</p>
+<b peepee="color">bbbb</b>
